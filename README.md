@@ -8,7 +8,7 @@ You know, these .DS_Store files after you've searched for a file on your Windows
 
 Run the `index.php` pointing to a directory, e.g. using a PHP interpreter or via shebang.
 
-This will remove .DS_store in the ./Music directory and **all** nested directories.
+This will remove .DS_store in the `./Music` directory and **all** nested directories.
 
 ```
 php index.php ./Music
